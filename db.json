@@ -1,5 +1,4 @@
-[
-  {
+{
     "id": 1,
     "name": "Manchester United T-Shirt 2013",
     "price": "$9.99",
@@ -11,4 +10,3 @@
     "price": "$4.99",
     "image": "@/assets/tshirt/tshirt-two.jpg"
   }
-]
